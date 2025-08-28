@@ -106,3 +106,8 @@ while True:
 # Hancurkan semua jendela setelah loop selesai
 cv2.destroyAllWindows()
 print("Bot dihentikan.")
+
+
+
+
+#28-8-2025 => DAY-1: Membangun kerangka dasar bot untuk Brawlhalla, hasilnya tadi sudah bisa menampilkan screen di brawlhallaya cuman masih bug dan perlu perbaikan lebih lanjut serta tadi forclose screenya.
